@@ -6,16 +6,17 @@
   <a href="mailto:contact@usekritikos.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://usekritikos.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
+Hi, I'm Riaan 👋
 
-Hi there 👋
 A little about me...
+
+UC Berkeley — Data Science and Economics
 Building the AI data layer for education @ Kritikos
-Student at UC Berkeley studying Economics, Data Science, and technology systems
-Focused on building AI-native infrastructure for learning — systems that improve student comprehension, metacognition, and personalized education.
+Focused on building AI-native infrastructure for learning — systems that improve student comprehension, metacognition, and personalized education
+
 
 Experience
 
-4+ years working in the education technology ecosystem across product, strategy, and operations 
 Co-Founder & CEO of Kritikos — building the K-12 data layer that connects every school app and delivers proactive action plans to teachers and students via SMS and voice
 Co-Founder of Moonshot Mentors (acquired) — mentoring students in entrepreneurship and technology
 EdTech Private Equity at Kaizenvest — evaluating and scaling education companies
@@ -61,7 +62,7 @@ Infrastructure & Tools
 </p>
 
 Current Projects
-Kritikos - The AI data layer for K-12 schools. Connects Canvas, PowerSchool, Google Classroom, and more into one unified thread delivered via text and voice. No new dashboard, no new login. Currently in private beta and live in schools.
+🏗️ Kritikos — The AI data layer for K-12 schools. Connects Canvas, PowerSchool, Google Classroom, and more into one unified thread delivered via text and voice. No new dashboard, no new login. Currently in private beta and live in schools.
 <p>
   <a href="https://usekritikos.com"><img src="https://img.shields.io/badge/Visit-usekritikos.com-0969DA?style=for-the-badge" /></a>
   <a href="https://calendly.com/riaankumar/kritikos-demo"><img src="https://img.shields.io/badge/Book%20a%20Demo-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
