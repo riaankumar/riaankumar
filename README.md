@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&height=60&lines=Riaan+Kumar;Building+the+AI+Data+Layer+for+Education+%40+Kritikos;UC+Berkeley+%E2%80%94+Data+Science+%26+Economics" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/riaan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@usekritikos.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/riaankumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://usekritikos.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
 <h2>Hi, I'm Riaan 👋</h2>
