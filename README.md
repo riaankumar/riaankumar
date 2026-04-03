@@ -17,6 +17,7 @@
 <h3>Experience</h3>
 <ul>
   <li>Co-Founder & CEO of <a href="https://usekritikos.com"><b>Kritikos</b></a> — building the K-12 data layer that connects every school app and delivers proactive action plans to teachers and students via SMS and voice</li>
+  <li>Product Management Intern at <b>Memorang</b> — led MVP development for AI learning platform (10k+ users), built analytics and experimentation frameworks, shipped AI-driven content generation and growth features</li>
   <li>Co-Founder of <b>Moonshot Mentors</b> (acquired) — mentoring students in entrepreneurship and technology</li>
   <li>EdTech Private Equity at <b>Kaizenvest</b> — evaluating and scaling education companies</li>
 </ul>
